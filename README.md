@@ -22,14 +22,14 @@ Currently working in tech education — teaching 3D modeling while handling inte
 ---
 
 ### 🚀 Flagship Project: TinkerFlow
-
-An operational management and 3D print logistics platform built from scratch to solve coordination bottlenecks across our educational branches.
-
-- **Production Scale:** Actively deployed and serving **1,000+ active students across 5 regional branches**, coordinating thousands of weekly print jobs and curricular progress states.
-- **Full-Stack Implementation:**
-  - **[TinkerFlow-back](https://github.com/Maksiator/TinkerFlow-back)** — .NET 9 Clean Architecture REST API, PostgreSQL, dynamic time-scoped RBAC engine (±2 days authorization window for substitute trainers), transactional batch verification.
-  - **[TinkerFlow-front](https://github.com/Maksiator/TinkerFlow-front)** — React 19 + TypeScript field client featuring dense classroom matrix rendering, optimistic UI updates, inventory packing aggregation, and print farm dashboard.
-
+    
+An internal operational management and 3D print logistics platform built from scratch to solve field coordination bottlenecks across our educational network.
+    
+* **Production Data Scale:** Actively managing live progress matrices for **1,000+ students across 5 regional branches**, coordinating 1,000–2,000 weekly print jobs and curriculum state transitions for instructors and lab staff.
+* **Full-Stack Implementation:**
+  * **[TinkerFlow-back](https://github.com/Maksiator/TinkerFlow-back)** — .NET 9 Clean Architecture REST API, PostgreSQL, dynamic time-scoped RBAC engine
+  * **[TinkerFlow-front](https://github.com/Maksiator/TinkerFlow-front)** — React 19 + TypeScript field-operations client featuring dense classroom matrix rendering, optimistic UI updates, inventory packing aggregation, and print farm dashboard.
+  
 ---
 
 ### 💡 Beyond the Code
